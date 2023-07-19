@@ -4,4 +4,10 @@ Built a Completely Responsive Gym Website that shows Exercise according to the c
 Site is live, do check it out : https://abhishekv-gym.netlify.app/
 
 
-<img width="38" alt="image" src="https://github.com/Abhishek100Verma/Gym_Webapp/assets/78490493/c24701a7-fd6f-4acb-89e2-af358f396e59">
+<img width="960" alt="image" src="https://github.com/Abhishek100Verma/Gym_Webapp/assets/78490493/7d0aa7f7-792e-4601-bee3-944346c30c9b">
+
+<img width="665" alt="image" src="https://github.com/Abhishek100Verma/Gym_Webapp/assets/78490493/36b64359-6281-4aaa-b4a9-be4a7c507776">
+
+<img width="628" alt="image" src="https://github.com/Abhishek100Verma/Gym_Webapp/assets/78490493/bc1fc44c-f9a6-440c-8f4a-47ac4c10927d">
+
+
